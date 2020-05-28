@@ -14,7 +14,9 @@ in total it mixes the following skills i have learned and wanted to practice:
 
 3) html, css, and css-grid - learn the basics of html, general design with css and layout wit css-grid 
 
-4) python - a mix of everything above and being able to configure everything togetwhere and packages it as an application
+4) python - a mix of everything above and being able to configure everything together and packages it as an application
+
+5) git - first time using git on my own and first time pushing to github and opening a repository
 
 ### Prerequisites
 * Python 3.6+
