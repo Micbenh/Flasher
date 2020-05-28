@@ -2,6 +2,9 @@
 This is the code repo for Flasher, a flask web app that pushes to the user a random Flash game everytime he presses the button.
 
 # A little about Flasher
+
+![Screenshot](pic.png)
+
 Flasher is my first project that i built on my own and not a tutorial-follow project :)
 
 in total it mixes the following skills i have learned and wanted to practice:
