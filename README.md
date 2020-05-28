@@ -3,7 +3,7 @@ This is the code repo for Flasher, a flask web app that pushes to the user a ran
 
 # A little about Flasher
 
-![Screenshot](pic.png)
+![alt text](pic.png)
 
 Flasher is my first project that i built on my own and not a tutorial-follow project :)
 
